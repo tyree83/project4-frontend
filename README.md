@@ -15,7 +15,7 @@ This is a web app that allows a user to make and wish and post it to the well. U
 - CSS3
 
 ## Getting Started
-See the deployed app [here!](https://web-store-wmc.herokuapp.com/)
+See the deployed app [here!](https://wishingwell.netlify.app/)
 
 ## Future Enhancements
 Allow users to enter credit card information to donate and grant a wish.
